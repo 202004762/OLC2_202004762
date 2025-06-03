@@ -1,0 +1,64 @@
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\bin\Debug\net9.0\Proyecto 1.exe
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\bin\Debug\net9.0\Proyecto 1.deps.json
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\bin\Debug\net9.0\Proyecto 1.runtimeconfig.json
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\bin\Debug\net9.0\Proyecto 1.dll
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\bin\Debug\net9.0\Proyecto 1.pdb
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\bin\Debug\net9.0\Antlr4.Runtime.Standard.dll
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.csproj.AssemblyReference.cache
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.AssemblyInfoInputs.cache
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.AssemblyInfo.cs
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.csproj.Up2Date
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.dll
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\refint\Proyecto 1.dll
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.pdb
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.genruntimeconfig.cache
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\ref\Proyecto 1.dll
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.sourcelink.json
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\bin\Debug\net9.0\Proyecto 1.staticwebassets.endpoints.json
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\bin\Debug\net9.0\Proyecto 1.exe
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\bin\Debug\net9.0\Proyecto 1.deps.json
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\bin\Debug\net9.0\Proyecto 1.runtimeconfig.json
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\bin\Debug\net9.0\Proyecto 1.dll
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\bin\Debug\net9.0\Proyecto 1.pdb
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\bin\Debug\net9.0\Antlr4.Runtime.Standard.dll
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.csproj.AssemblyReference.cache
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.AssemblyInfoInputs.cache
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.AssemblyInfo.cs
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\scopedcss\bundle\Proyecto 1.styles.css
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\staticwebassets\msbuild.Proyecto 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\staticwebassets\msbuild.Proyecto 1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\staticwebassets\msbuild.build.Proyecto 1.props
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto 1.props
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Proyecto 1.props
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.csproj.Up2Date
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.dll
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\refint\Proyecto 1.dll
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.pdb
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.genruntimeconfig.cache
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\obj\Debug\net9.0\ref\Proyecto 1.dll
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\bin\Debug\net9.0\interfaz-analizador\package-lock.json
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\bin\Debug\net9.0\interfaz-analizador\package.json
+C:\Users\Rodas\Downloads\Proyecto 1\Proyecto 1\bin\Debug\net9.0\interfaz-analizador\public\manifest.json
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\bin\Debug\net9.0\interfaz-analizador\package-lock.json
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\bin\Debug\net9.0\interfaz-analizador\package.json
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\bin\Debug\net9.0\Proyecto 1.staticwebassets.endpoints.json
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\Proyecto 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\scopedcss\bundle\Proyecto 1.styles.css
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\staticwebassets\msbuild.Proyecto 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\staticwebassets\msbuild.Proyecto 1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\staticwebassets\msbuild.build.Proyecto 1.props
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto 1.props
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Proyecto 1.props
+C:\Users\Rodas\OneDrive\Documentos\USAC\11vo Semestre\OLC2\Lab\Proyecto 1\obj\Debug\net9.0\staticwebassets.pack.json
